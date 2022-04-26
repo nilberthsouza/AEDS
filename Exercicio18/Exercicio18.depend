@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1650979132 source:/home/hironudesu/Documents/CODING/AEDS/Exercicio18/inverteletras.c
+	<stdio.h>
+	"inverteletras.h"
+
+1650979132 /home/hironudesu/Documents/CODING/AEDS/Exercicio18/inverteletras.h
+
+1650979692 source:/home/hironudesu/Documents/CODING/AEDS/Exercicio18/main.c
+	<stdio.h>
+	<stdlib.h>
+	"inverteletras.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1650741005 source:/home/hironudesu/Documents/CODING/AEDS/Exercicio08/procuravetor.c
+	"procuravetor.h"
+	<stdio.h>
+
+1650741015 /home/hironudesu/Documents/CODING/AEDS/Exercicio08/procuravetor.h
+
+1650740901 source:/home/hironudesu/Documents/CODING/AEDS/Exercicio08/main.c
+	<stdio.h>
+	<stdlib.h>
+	"procuravetor.h"
+

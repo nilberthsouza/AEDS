@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1650744032 source:/home/hironudesu/Documents/CODING/AEDS/Exercicio09/main.c
+	<stdio.h>
+	<stdlib.h>
+	"somavetor.h"
+
+1650744571 source:/home/hironudesu/Documents/CODING/AEDS/Exercicio09/somavetor.c
+	<stdio.h>
+	"somavetor.h"
+
+1650744571 /home/hironudesu/Documents/CODING/AEDS/Exercicio09/somavetor.h
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1650982810 source:/home/hironudesu/Documents/CODING/AEDS/Exercicio19/main.c
+	<stdio.h>
+	<stdlib.h>
+	"inverpilha.h"
+	<stdlib.h>
+
+1650983548 /home/hironudesu/Documents/CODING/AEDS/Exercicio19/inverpilha.h
+
+1650983663 source:/home/hironudesu/Documents/CODING/AEDS/Exercicio19/inverpilha.c
+	<stdio.h>
+	"inverpilha.h"
+	<stdlib.h>
+

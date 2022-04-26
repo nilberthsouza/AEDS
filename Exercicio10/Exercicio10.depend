@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1650815469 source:/home/hironudesu/Documents/CODING/AEDS/Exercicio10/trocaelemento.c
+	<stdio.h>
+	"trocaelemento.h"
+
+1650815114 /home/hironudesu/Documents/CODING/AEDS/Exercicio10/trocaelemento.h
+
+1650815333 source:/home/hironudesu/Documents/CODING/AEDS/Exercicio10/main.c
+	<stdio.h>
+	<stdlib.h>
+	"trocaelemento.h"
+

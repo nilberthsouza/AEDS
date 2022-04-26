@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1650740008 source:/home/hironudesu/Documents/CODING/AEDS/Exercicio07/main.c
+	<stdio.h>
+	<stdlib.h>
+	"somatorio.h"
+
+1650740008 /home/hironudesu/Documents/CODING/AEDS/Exercicio07/somatorio.h
+

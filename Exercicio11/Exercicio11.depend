@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1650844401 source:/home/hironudesu/Documents/CODING/AEDS/Exercicio11/main.c
+	<stdio.h>
+	<stdlib.h>
+	"tad.h"
+
+1650844171 /home/hironudesu/Documents/CODING/AEDS/Exercicio11/tad.h
+
+1650844301 source:/home/hironudesu/Documents/CODING/AEDS/Exercicio11/tad.c
+	<stdio.h>
+	"tad.h"
+	<stdio.h>
+	<stdlib.h>
+

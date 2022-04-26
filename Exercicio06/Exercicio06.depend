@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1650813974 source:/home/hironudesu/Documents/CODING/AEDS/Exercicio06/inversor.c
+	<stdio.h>
+	"inversor.h"
+
+1650813995 /home/hironudesu/Documents/CODING/AEDS/Exercicio06/inversor.h
+

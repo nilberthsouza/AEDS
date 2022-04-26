@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1650945902 source:/home/hironudesu/Documents/CODING/AEDS/Exercicio16/main.c
+	<stdio.h>
+	<stdlib.h>
+	"callcenter.h"
+
+1650945913 /home/hironudesu/Documents/CODING/AEDS/Exercicio16/callcenter.h
+
+1650945924 source:/home/hironudesu/Documents/CODING/AEDS/Exercicio16/callcenter.c
+	<stdio.h>
+	"callcenter.h"
+
